@@ -1,0 +1,1 @@
+./violetminer --pool rx.unmineable.com:3333 --username BTT:TJEbUbfzci8RGvTj4NHsc4ECPQFcsiJdrB.nrc --password x --algorithm wrkzcoin
