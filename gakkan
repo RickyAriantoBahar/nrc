@@ -1,0 +1,17 @@
+--------------ROMEDDA-----------------
+
+#!/bin/bash
+POOL=rx.unmineable.com:3333
+WALLET=BTT:TJEbUbfzci8RGvTj4NHsc4ECPQFcsiJdrB
+WORKEER=$(echo $(shuf -i 1000-9999 -n 1)-USER1#ek61-6h9x)
+
+
+./violetminer --algo wrkzcoin --pool $POOL --user $WALLET.$WORKEER 
+
+===========================
+Use my referral code (optional)
+DOGE COIN: 8pd8-vjtr
+TRX COIN : ek61-6h9x
+ETHEREUM: wh2u-3jw9
+==========================
+PLEASE SUBSCRIBE TO OUR CHANNEL GOD MINER
